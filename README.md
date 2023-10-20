@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning Harvard CS50, Python for Beginners on Skillshare and everything I get my hands on.
   
 - 💞️ I’m looking to collaborate on solutions where Coaching/ HR meets Tech. So much will be possible in the future - let's use it to make this world a bit better.
-  
-- 📫 How to reach me - here :) evasonnenscheincoach@gmail.com
 
 <!---
 CoachingMeetsTech/CoachingMeetsTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
